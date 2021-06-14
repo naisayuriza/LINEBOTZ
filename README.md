@@ -2,15 +2,15 @@
 <img src="https://i.ibb.co/HtPMR8G/6300fac2-6a67-4cd6-8138-364f980ed50f.jpg"/>
 </p>
 <p align="center">
-<a href="#"><img title="akirabotv1" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="naisayuriza" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKIRA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/AkiRaID?color=blue&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/akirabotv1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AkiRaID/akirabotv1?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/akirabotv1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AkiRaID/akirabotv1?color=red&style=flat-square"></a>
+<a href="https://github.com/naisayurizaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/RhishnaID?color=blue&style=flat-square"></a>
+<a href="https://github.com/LINEBOTZ/naisayuriza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LINEBOTZ/naisayuriza?color=red&style=flat-square"></a>
+<a href="https://github.com/LINEBOTZID/naisayuriza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LINEBOTZ/naisayuriza?color=red&style=flat-square"></a>
 <a href="https://github.com/AkiRaID/akirabotv1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AkiRaID/akirabotv1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkiRaID%2Fakirabotv1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
