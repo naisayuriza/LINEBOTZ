@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/BjSpVNH/6300fac2-6a67-4cd6-8138-364f980ed50f.jpg"/>
+<img src="https://i.ibb.co/HtPMR8G/6300fac2-6a67-4cd6-8138-364f980ed50f.jpg"/>
 </p>
 <p align="center">
 <a href="#"><img title="akirabotv1" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
