@@ -1,24 +1,24 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# LINEBOTZ
+BOT WHATSAPP KHUSUS FIELOVE
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> internet yang memadai, kalo kamu gapunya kuota pake kuota kemendikbud 
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+> sambil dengerin lagu aline
 ```
 
 ### Cara Installnya
-Sebelum lu jalanin sc nya install dulu lah.
+Sebelum kamu jalanin sc nya install dulu .
 ```bash
-> kalo lu belum punya apk termux, download di playstore
+> kalo kamu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
-> cd botst4rz
+> git clone https://github.com/naisayuriza/LINEBOTZ.git
+> cd LINEBOTZ
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| LINEBOTZ       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/rhishna)
