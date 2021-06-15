@@ -60,8 +60,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-$ git clone https://github.com/AkiRaID/akirabotv1.git
-$ cd akirabotv1
+$ git clone https://github.com/naisayuriza/LINEBOTZ.git
+$ cd LINEBOTZ
 ```
 
 Install the dependencies:
