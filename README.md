@@ -84,6 +84,6 @@ Scan Qrnya,dan Selamat Menikmati Bot Wanya😁
 
 
 ## Thanks to
-* [FALINE] (https://www.youtube.com/channel/UC7ePiMV4y2MoZnTEtak_Hxg)
+* [FALINE](https://www.youtube.com/channel/UC7ePiMV4y2MoZnTEtak_Hxg)
 * [RHISHNA](https://www.youtube.com/channel/UCbk-kBacTNh6KtvHjhmrfLQ)
 
