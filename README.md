@@ -17,6 +17,11 @@ Sebelum kamu jalanin sc nya install dulu .
 ```bash
 > kalo kamu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
+> apt-get update -y
+> apt-get upgrade -y
+> pkg install git -y
+> pkg install bash -y
+> pkg install mc -y
 > git clone https://github.com/naisayuriza/LINEBOTZ.git
 > cd LINEBOTZ
 > bash install.sh
