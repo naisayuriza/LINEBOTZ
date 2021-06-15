@@ -8,11 +8,7 @@
 <a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/naisayurizaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/RhishnaID?color=blue&style=flat-square"></a>
-<a href="https://github.com/LINEBOTZ/naisayuriza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LINEBOTZ/naisayuriza?color=red&style=flat-square"></a>
-<a href="https://github.com/LINEBOTZID/naisayuriza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LINEBOTZ/naisayuriza?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/akirabotv1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AkiRaID/akirabotv1?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkiRaID%2Fakirabotv1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C8633D&title_bg=%2300D8E9&icon=snapchat.svg&icon_color=%23FF00D9&title=hits&edge_flat=false"/></a>
 </p>
 
 <p align="center">
@@ -25,7 +21,7 @@
 <details>
  <summary>😔 Help me!</summary>
  
- [Saweria](https://saweria.co/akirayt)
+ [Saweria](https://saweria.co/Rhishna)
  
 </details>
 
@@ -34,15 +30,16 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/akirashopreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://m.youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/6282158549899" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.instagram.com/rhishna_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/channel/UCbk-kBacTNh6KtvHjhmrfLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6283830172470" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
 ## Info
 ```bash
-Akira Bot adalah Bot Whatsapp yg Memiliki 500+ Fitur, 
-dan Menggunakan Bermacam² Rest Api
+LINEBOTZ adalah diciptakan untuk fielove
+bukan untuk umum     
+    
 ```
 
 ## Tools
@@ -87,8 +84,6 @@ Scan Qrnya,dan Selamat Menikmati Bot Wanya😁
 
 
 ## Thanks to
-* [Roy](https://github.com/Pxc7b)
-* [Riu](https://github.com/Pxc7)
-* [MhankBarBar](https://github.com/MhankBarBar)
-* [LolHuman](https://github.com/LoL-Human)
+* [FALINE] (https://www.youtube.com/channel/UC7ePiMV4y2MoZnTEtak_Hxg)
+* [RHISHNA](https://www.youtube.com/channel/UCbk-kBacTNh6KtvHjhmrfLQ)
 
