@@ -13,8 +13,8 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'LINEBOTZ '; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/rhishna_'; // Nama Instagram kamu
-const whatsapplu = '083830172470'; // Nomor whatsapp kamu
+const instagrammu = 'https://instagram.com/rhishna_'; // Nama Instagram kamu
+const whatsappmu = '083830172470'; // Nomor whatsapp kamu
 const kapanbotaktif = '24 Jam'; // Kapan bot kamu aktif
 //
 const
@@ -211,7 +211,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, menu.menu(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, menu.menu(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#quran'){
 axios.get('https://api.banghasan.com/quran/format/json/acak').then((res) => {
@@ -229,7 +229,7 @@ else if (text == 'salam'){
 conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya kak..' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya kak..' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya kak..' ,MessageType.text);
@@ -347,7 +347,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#donasi'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
@@ -384,7 +384,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#DONATE'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
@@ -421,7 +421,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#DONASI'){
   const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
@@ -458,7 +458,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, donate.donate(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#info'){
   const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
@@ -495,7 +495,7 @@ switch(bulan) {
 }
 var tampilTanggal = "TANGGAL: " + hari + ", " + tanggal + " " + bulan + " " + tahun;
 var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
-conn.sendMessage(id, info.info(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram kamu, whatsapp kamu, kapanbotaktif) ,MessageType.text);
+conn.sendMessage(id, info.info(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif) ,MessageType.text);
 }
 else if (text == '#ptl'){
 conn.sendMessage(id, 'kirim #ptl cewek/cowok\n\nContoh: #ptl cewek' ,MessageType.text);
@@ -559,7 +559,7 @@ conn.sendMessage(id, 'kirim #ptl cewek/cowok\n\nContoh: #ptl cewek' ,MessageType
       {
          if (info.length_seconds > 1000)
          {
-            conn.sendMessage(id, " videonya kepanjangan", MessageType.text)
+            conn.sendMessage(id, " videonya kepanjangan kak", MessageType.text)
          }
          else
          {
